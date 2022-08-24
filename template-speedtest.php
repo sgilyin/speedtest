@@ -20,7 +20,7 @@ if ($inputPost = filter_input_array(INPUT_POST)) {
             $url='https://fialka.fireprobe.net';
             break;
         case 'openspeedtest_x':
-            $url='http://speed.fialka.tv:3000/';
+            $url='https://speed.fialka.tv:3001/';
             break;
 
         default:
