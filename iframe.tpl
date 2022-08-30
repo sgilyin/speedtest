@@ -11,6 +11,8 @@
 </div>
 <div class="entry">
     <div class="woo-sc-box normal  rounded full">
-        {SPEEDTEST}
+        <div align="center">
+            {SPEEDTEST}
+        </div>
     </div>
 </div>
