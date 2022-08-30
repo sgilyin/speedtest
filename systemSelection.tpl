@@ -16,6 +16,7 @@
             <input type="image" src="/template-speedtest/speedtest.png" alt="Speedtest" width="120" height="60" name="speedtest" />
             <input type="image" src="/template-speedtest/fireprobe.png" alt="Fireprobe" width="120" height="60" name="fireprobe" />
             <input type="image" src="/template-speedtest/openspeedtest.png" alt="Openspeedtest" width="120" height="60" name="openspeedtest" />
+            <input type="image" src="/template-speedtest/nperf.png" alt="Nperf" width="120" height="60" name="nperf" />
         </form>
     </div>
 </div>

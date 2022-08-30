@@ -11,6 +11,6 @@
 </div>
 <div class="entry">
     <div class="woo-sc-box normal  rounded full">
-        <iframe scrolling="no" src="{URL}" style="width: 90vw; height: 90vh; overflow: hidden; border: none;"></iframe>
+        {SPEEDTEST}
     </div>
 </div>
